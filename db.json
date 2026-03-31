@@ -1,0 +1,157 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "sara_flex",
+      "profileImage": "src/assets/pro1.jpg",
+      "postImage": "src/assets/post1.JPG",
+      "caption": "Morning workout done 💪",
+      "likes": 324,
+      "timestamp": "2026-03-13T08:20:00Z",
+      "comments": [
+        {
+          "user": "rahul_dev",
+          "text": "Beast mode 🔥",
+          "timestamp": "2026-03-13T08:25:10Z"
+        },
+        {
+          "user": "gym_life",
+          "text": "Respect bro",
+          "timestamp": "2026-03-13T08:30:45Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "sara_travel",
+      "profileImage": "src/assets/pro2.jpg",
+      "postImage": "src/assets/post2.JPG",
+      "caption": "Sunset vibes 🌅",
+      "likes": 512,
+      "timestamp": "2026-03-13T06:10:00Z",
+      "comments": [
+        {
+          "user": "wander_lust",
+          "text": "Beautiful place 😍",
+          "timestamp": "2026-03-13T06:15:20Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "versesofsaraaa",
+      "profileImage": "src/assets/pro3.jpg",
+      "postImage": "src/assets/post3.jpg",
+      "caption": "Unexpected",
+      "likes": 198,
+      "timestamp": "2026-03-12T22:40:00Z",
+      "comments": [
+        {
+          "user": "frontend_guru",
+          "text": "Developer life 😅",
+          "timestamp": "2026-03-12T22:50:00Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "username": "foodie_sara",
+      "profileImage": "src/assets/pro4.jpg",
+      "postImage": "src/assets/post4.jpg",
+      "caption": "Biryani time 🍗",
+      "likes": 420,
+      "timestamp": "2026-03-12T19:15:00Z",
+      "comments": [
+        {
+          "user": "biryani_lover",
+          "text": "Looks tasty 🤤",
+          "timestamp": "2026-03-12T19:20:30Z"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "versesofsaraaa",
+    "profileImage": "/src/assets/pro1.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "sara_flex",
+      "profileImage": "src/assets/pro1.jpg"
+    },
+    {
+      "id": "4",
+      "username": "foodie_sara",
+      "profileImage": "src/assets/pro4.jpg"
+    },
+    {
+      "id": "2",
+      "username": "sara_travel",
+      "profileImage": "src/assets/pro2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "versesofsaraaa",
+      "profileImage": "src/assets/pro3.jpg"
+    }
+  ],
+  "Story": [
+    {
+      "id": "1",
+      "username": "sara_flex",
+      "profileImage": "src/assets/pro1.jpg",
+      "storyImage": "src/assets/story1.JPG"
+    },
+    {
+      "id": "2",
+      "username": "sara_travel",
+      "profileImage": "src/assets/pro2.jpg",
+      "storyImage": "src/assets/story2.JPG"
+    },
+    {
+      "id": "3",
+      "username": "versesofsaraaa",
+      "profileImage": "src/assets/pro3.jpg",
+      "storyImage": "src/assets/story3.JPG"
+    },
+    {
+      "id": "4",
+      "username": "foodie_sara",
+      "profileImage": "src/assets/pro4.jpg",
+      "storyImage": "src/assets/story4.JPG"
+    },
+    {
+      "id": "5",
+      "username": "sara_travel",
+      "profileImage": "src/assets/pro2.jpg",
+      "storyImage": "src/assets/story2.JPG"
+    },
+    {
+      "id": "6",
+      "username": "sara_flex",
+      "profileImage": "src/assets/pro1.jpg",
+      "storyImage": "src/assets/story1.JPG"
+    }
+  ],
+  "followers": [
+    {
+      "id": "2",
+      "username": "sara_travel"
+    },
+    {
+      "id": "4",
+      "username": "foodie_sara"
+    },
+    {
+      "id": "4",
+      "username": "foodie_sara"
+    },
+    {
+      "id": "1",
+      "username": "sara_flex"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

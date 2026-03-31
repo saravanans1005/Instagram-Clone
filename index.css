@@ -1,0 +1,57 @@
+.w-20{
+    width: 20%;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.logotext{
+    width: 150px;
+}
+
+.bi{
+    margin-right: 10px;
+}
+
+.story{
+    height:140px
+}
+
+.dp{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.pic{
+    width: 500px;
+}
+
+.story-border{
+    width: 90px;
+    height: 90px;
+    padding: 3px;
+    border-radius: 50%;
+    
+    background: linear-gradient(
+        45deg,
+        #feda75,
+        #fa7e1e,
+        #d62976,
+        #962fbf,
+        #4f5bd5
+    );
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile{
+    width:90px;
+    height:90px;
+}
+
+
+
